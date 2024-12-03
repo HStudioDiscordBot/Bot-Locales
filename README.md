@@ -34,3 +34,9 @@ HStudio's Support 30 Languages
 | Ukrainian             | [uk-UA.json](uk-UA.json) | 66/177  | 37%        |
 | Vietnamese            | [vi-VN.json](vi-VN.json) | 0/177   | 0%         |
 | Chinese, Taiwan       | [zh-CN.json](zh-CN.json) | 0/177   | 0%         |
+
+# Translators
+You can help us translates bot to your localization with pull requset
+
+# Support
+For support, join our [Discord](https://discord.gg/gAdjmmHxBQ) server.

@@ -174,5 +174,14 @@
     "command.web-control.success.description": "คลิกที่ปุ่มด้านล่างเพื่อเปิดหน้าเว็บควบคุม",
     "command.web-control.success.button": "เปิดหน้าเว็บควบคุม",
     "command.web-control.error.title": "❌ เกิดข้อผิดพลาด",
-    "command.web-control.error.description": "ไม่สามารถเชื่อมต่อกับเซิฟเวอร์ได้"
+    "command.web-control.error.description": "ไม่สามารถเชื่อมต่อกับเซิฟเวอร์ได้",
+    "command.publisher.add.invalid_channel": "❌ ช่องที่ระบุไม่ถูกต้อง",
+    "command.publisher.add.already_added": "❌ ช่องนี้อยู่ในรายการแล้ว",
+    "command.publisher.add.success": "✅ เพิ่ม {0} เข้าในรายการสำเร็จ",
+    "command.publisher.add.limit_reached": "❌ คุณกำหนดช่องเผยแพร่ไว้เต็มแล้ว",
+    "command.publisher.remove.invalid_channel": "❌ ช่องที่ระบุไม่ถูกต้อง",
+    "command.publisher.remove.not_added": "❌ ช่องนี้ไม่อยู่ในรายการ",
+    "command.publisher.remove.success": "✅ ลบ {0} ออกจากรายการสำเร็จ",
+    "command.publisher.list.title": "รายการช่องที่จะเผยแพร่",
+    "command.publisher.list.empty": "⚠️ ไม่มีช่องที่จะเผยแพร่"
 }

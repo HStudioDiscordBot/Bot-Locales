@@ -175,5 +175,14 @@
     "command.web-control.success.description": "Click the button below to open the control panel",
     "command.web-control.success.button": "Open",
     "command.web-control.error.title": "❌ Error",
-    "command.web-control.error.description": "An error occurred while connecting to the server"
+    "command.web-control.error.description": "An error occurred while connecting to the server",
+    "command.publisher.add.invalid_channel": "❌ Invalid channel",
+    "command.publisher.add.already_added": "❌ This channel is already in the publisher list",
+    "command.publisher.add.success": "✅ Added {0} to the publisher list",
+    "command.publisher.add.limit_reached": "❌ The publisher list has reached the limit",
+    "command.publisher.remove.invalid_channel": "❌ Invalid channel",
+    "command.publisher.remove.not_added": "❌ This channel is not in the publisher list",
+    "command.publisher.remove.success": "✅ Removed {0} from the publisher list",
+    "command.publisher.list.title": "Auto Publish List",
+    "command.publisher.list.empty": "⚠️ No channel in auto publish list"
 }

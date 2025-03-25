@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Detaljer",
     "command.help.helpselection.command": "Kommandoer",
     "command.help.helpselection.contributor": "Bidragydere",
-    "command.help.help.description": "> Hvis du ønsker at bruge botten på engelsk, skal du ændre dit Discord sprog til EN (enten USA eller UK)\n> **[Fuld Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Hvis du ønsker at bruge botten på engelsk, skal du ændre dit Discord sprog til EN (enten USA eller UK)\n> **[Fuld Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Nyttige Links",
     "command.help.help.field.usefullinks.value": "- **[Inviter bot]({0})**\n- **[Support Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ Tiden er op, brug /help igen for at genåbne hjælpsmenuen",

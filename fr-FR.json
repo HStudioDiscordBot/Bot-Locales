@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Détails du produit",
     "command.help.helpselection.command": "Commandes",
     "command.help.helpselection.contributor": "Contributeurs",
-    "command.help.help.description": "> Si vous voulez utiliser le bot en anglais, veuillez changer votre langue Discord en EN (soit US soit UK)\n> **[Full Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Si vous voulez utiliser le bot en anglais, veuillez changer votre langue Discord en EN (soit US soit UK)\n> **[Full Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Liens utiles",
     "command.help.help.field.usefullinks.value": "- **[Invite the bot]({0})**\n- **[Support Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ Le temps est écoulé, veuillez utiliser /help à nouveau pour rouvrir le menu d'aide",

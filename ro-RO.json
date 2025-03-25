@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Detalii",
     "command.help.helpselection.command": "Comenzi",
     "command.help.helpselection.contributor": "Colaboratori",
-    "command.help.help.description": "> Dacă vrei să folosești botul în engleză, te rugăm să îți schimbi limba Discord în EN (fie SUA sau Marea Britanie)\n> **[Ghid complet](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Dacă vrei să folosești botul în engleză, te rugăm să îți schimbi limba Discord în EN (fie SUA sau Marea Britanie)\n> **[Ghid complet](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Link-uri utile",
     "command.help.help.field.usefullinks.value": "- **[Invită bot]({0})**\n- **[Support Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ Timpul s-a terminat, te rugăm să folosești /help din nou pentru a redeschide meniul de ajutor",

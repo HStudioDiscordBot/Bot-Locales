@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "詳細",
     "command.help.helpselection.command": "指令",
     "command.help.helpselection.contributor": "コントリビューター",
-    "command.help.help.description": "> If you want to use the bot in English, please change your Discord language to EN (either US or UK)\n> **[Full Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> If you want to use the bot in English, please change your Discord language to EN (either US or UK)\n> **[Full Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 有用なリンク",
     "command.help.help.field.usefullinks.value": "- **[Invite the bot]({0})**\n- **[Support Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ 時間切れです。/help をもう一度使用してヘルプメニューを開いてください",

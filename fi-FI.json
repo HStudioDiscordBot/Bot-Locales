@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Yksityiskohdat",
     "command.help.helpselection.command": "Komennot",
     "command.help.helpselection.contributor": "Avustajat",
-    "command.help.help.description": "> Jos haluat käyttää bottia englanniksi, vaihda Discordin kieli EN (joko US tai UK)\n> **[Full Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Jos haluat käyttää bottia englanniksi, vaihda Discordin kieli EN (joko US tai UK)\n> **[Full Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Hyödyllisiä Linkkejä",
     "command.help.help.field.usefullinks.value": "- **[Kutsu bottia]({0})**\n- **[Support Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ Aika on ylittynyt, käytä /help uudelleen avataksesi ohjevalikon",

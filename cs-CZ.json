@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Detaily",
     "command.help.helpselection.command": "Příkazy",
     "command.help.helpselection.contributor": "Přispěvatelé",
-    "command.help.help.description": "> Pokud chceš použít bota v angličtině, prosím, změň svůj jazyk Discord na EN (US nebo UK)\n> **[Full Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Pokud chceš použít bota v angličtině, prosím, změň svůj jazyk Discord na EN (US nebo UK)\n> **[Full Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Užitečné odkazy",
     "command.help.help.field.usefullinks.value": "- **[Pozvat bot]({0})**\n- **[Podpořte Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ Čas vypršel, prosím použijte /help pro opětovné otevření nabídky nápovědy",

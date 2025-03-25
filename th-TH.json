@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "รายละเอียด",
     "command.help.helpselection.command": "คำสั่ง",
     "command.help.helpselection.contributor": "ผู้พัฒนา",
-    "command.help.help.description": "> If you want to use bot in English Please change discord language to EN (either US or UK)\n> **[คู่มือฉบับเต็ม](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> If you want to use bot in English Please change discord language to EN (either US or UK)\n> **[คู่มือฉบับเต็ม](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 ลิ้งค์ที่มีประโยชน์",
     "command.help.help.field.usefullinks.value": "- **[เชิญบอท]({0})**\n- **[Discord ช่วยเหลือ](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ หมดเวลาแล้วกรุณาใช้ /help อีกครั้งเพื่อเปิดเมนูช่วยเหลือ",

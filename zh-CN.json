@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "详细信息",
     "command.help.helpselection.command": "命令",
     "command.help.helpselection.contributor": "贡献者",
-    "command.help.help.description": "> 如果你想要用英语使用机器人，请将你的Discord语言更改为EN(要么是美国要么是联合王国)，\n> **[完整指南](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> 如果你想要用英语使用机器人，请将你的Discord语言更改为EN(要么是美国要么是联合王国)，\n> **[完整指南](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": ":pushpind: 有用的链接",
     "command.help.help.field.usefullinks.value": "- **[邀请]({0})**\n- **[支持Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": ":hourglass_don：时间已到，请再次使用 /help 打开帮助菜单",

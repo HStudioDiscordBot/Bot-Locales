@@ -14,7 +14,7 @@
     "command.help.helpselection.help": "Beschrijving",
     "command.help.helpselection.command": "Opdrachten",
     "command.help.helpselection.contributor": "Bijdragers",
-    "command.help.help.description": "> Als je de bot in het Engels wilt gebruiken, verander dan je Discord taal naar EN (VS of UK)\n> **[Full Guide](https://docs.hstudio.hewkawar.xyz/)**",
+    "command.help.help.description": "> Als je de bot in het Engels wilt gebruiken, verander dan je Discord taal naar EN (VS of UK)\n> **[Full Guide](https://docs.hstudiobot.com)**",
     "command.help.help.field.usefullinks": "📌 Nuttige links",
     "command.help.help.field.usefullinks.value": "- **[Nodig de bot]({0})**\n- **[Steun Discord](https://discord.gg/S8gm6jb8d4)**",
     "command.help.timeout": "⌛ De tijd is omhoog, gebruik /help opnieuw om het help menu te heropenen",

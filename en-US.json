@@ -184,5 +184,8 @@
     "command.publisher.remove.not_added": "❌ This channel is not in the publisher list",
     "command.publisher.remove.success": "✅ Removed {0} from the publisher list",
     "command.publisher.list.title": "Auto Publish List",
-    "command.publisher.list.empty": "⚠️ No channel in auto publish list"
+    "command.publisher.list.empty": "⚠️ No channel in auto publish list",
+    "command.setup-ai.already-setup": "❌ HStudio AI is already setup in this server with {0}",
+    "command.setup-ai.success": "✅ Setup HStudio AI successfully with {0}",
+    "hstudio-ai.welcome": "Hello! I am {0}, a bot that talks with you.\nYou can ask me anything, and I will do my best to answer."
 }

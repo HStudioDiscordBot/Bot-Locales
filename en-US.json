@@ -158,6 +158,7 @@
     "command.play.state.convertingUrl": "🪛 Converting Url...",
     "command.play.state.searching": "🔍 Searching...",
     "command.play.state.prepare": "🎵 Preparing Server...",
+    "command.play.state.loadTrack": "🔗 Loading Track `{0}/{1}`",
     "command.seek.time.more_0": "⚠️ Time must be greater than 0",
     "command.seek.time.less_duration": "⚠️ Time must be less than the duration of the song",
     "command.seek.success.withSeconds": "⏩ Seek to `{0}/{1}`",

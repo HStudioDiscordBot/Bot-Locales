@@ -193,7 +193,7 @@
     "command.timestamp": "Updated at <t:{0}:f> (<t:{0}:R>)",
     "command.play.invalidPlaylist": "❌ Invalid or unsupported playlist link",
     "command.botPermission.dontHavePermission.title": "## 😢 Oh no! Bot don't have permission",
-    "command.botPermission.dontHavePermission.description": "Please ensure the bot has these permissions:\n{0}\n\n👉 [Read document](https://docs.hstudiobot.com/th/guide/bot-permission)",
+    "command.botPermission.dontHavePermission.description": "Please ensure the bot has these permissions:\n{0}\n\n👉 [Read document](https://docs.hstudiobot.com/guide/bot-permission)",
     "permission.Administrator": "Administrator",
     "permission.Connect": "Connect",
     "permission.Speak": "Speak",

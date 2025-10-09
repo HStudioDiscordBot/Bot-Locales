@@ -197,5 +197,7 @@
     "permission.Administrator": "Administrator",
     "permission.Connect": "Connect",
     "permission.Speak": "Speak",
-    "permission.DeafenMembers": "DeafenMembers"
+    "permission.DeafenMembers": "DeafenMembers",
+    "command.source.disabled.title": "## Sorry, {0} is temporarily disabled",
+    "command.source.disabled.description": "For some reason we have disabled **{0}** due to various issues. If the above issues are resolved we will let you know. 🙏"
 }

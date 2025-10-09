@@ -191,5 +191,11 @@
     "hstudio-ai.welcome": "Hello! I am {0}, a bot that talks with you.\nYou can ask me anything, and I will do my best to answer.",
     "command.donate.embed.dm.description": "You can send a Truemoney Voucher to the bot in DM for donation.",
     "command.timestamp": "Updated at <t:{0}:f> (<t:{0}:R>)",
-    "command.play.invalidPlaylist": "❌ Invalid or unsupported playlist link"
+    "command.play.invalidPlaylist": "❌ Invalid or unsupported playlist link",
+    "command.botPermission.dontHavePermission.title": "## 😢 Oh no! Bot don't have permission",
+    "command.botPermission.dontHavePermission.description": "Please ensure the bot has these permissions:\n{0}\n\n👉 [Read document](https://docs.hstudiobot.com/th/guide/bot-permission)",
+    "permission.Administrator": "Administrator",
+    "permission.Connect": "Connect",
+    "permission.Speak": "Speak",
+    "permission.DeafenMembers": "DeafenMembers"
 }

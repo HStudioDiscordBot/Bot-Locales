@@ -192,7 +192,7 @@
     "command.timestamp": "ข้อมูลเมื่อ <t:{0}:f> (<t:{0}:R>)",
     "command.play.invalidPlaylist": "❌ ลิ้งค์เพลย์ลิสต์ไม่ถูกต้องหรือไม่รองรับ",
     "command.botPermission.dontHavePermission.title": "## 😢 แย่จัง! บอทไม่มีสิทธิ์เข้าห้องเสียง",
-    "command.botPermission.dontHavePermission.description": "โปรดตรวจสอบให้แน่ใจว่าบอทมีสิทธิ์เหล่านี้:\n{0}\n\n👉 [อ่านคู่มือ](https://docs.hstudiobot.com/th/guide/bot-permission)",
+    "command.botPermission.dontHavePermission.description": "โปรดตรวจสอบให้แน่ใจว่าบอทมีสิทธิ์เหล่านี้:\n{0}\n\n👉 [อ่านคู่มือ](https://docs.hstudiobot.com/th/faq/bot-permission)",
     "permission.Administrator": "ผู้ดูแล",
     "permission.Connect": "เชื่อมต่อ",
     "permission.Speak": "พูด",

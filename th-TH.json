@@ -153,6 +153,7 @@
     "command.profile.description": "```Username: {0}\nDisplay Name: {1}\nID: {2}```",
     "command.converter.unknownSubcommand": "ไม่พบคำสั่งย่อยนี้",
     "modal.submit.donate.reply.fail.noPhoneNumber": "ผู้ให้บริการบอทยังไม่ได้ตั้งค่าหมายเลขโทรศัพท์สำหรับรับเงินบริจาค",
+    "command.play.invalidHStudioPlayUrl": "❌ URL HStudio Play ไม่ถูกต้อง",
     "command.play.state.checkingRequest": "🪄 กำลังตรวจสอบคำขอ...",
     "command.play.state.convertingUrl": "🪛 กำลังแปลงลิ้งค์...",
     "command.play.state.searching": "🔍 กำลังค้นหา...",

@@ -202,5 +202,8 @@
     "command.source.disabled.title": "## Sorry, {0} is temporarily disabled",
     "command.source.disabled.description": "For some reason we have disabled **{0}** due to various issues. If the above issues are resolved we will let you know. 🙏",
     "command.unknownCommand": "❌ Unknown command",
-    "command.unknownSubcommand": "❌ Unknown subcommand"
+    "command.unknownSubcommand": "❌ Unknown subcommand",
+    "command.join.guildOnly": "❌ This command can only be used in servers",
+    "command.leave.guildOnly": "❌ This command can only be used in servers",
+    "command.join.couldNotCreatePlayer": "❌ Could not create a sessionh"
 }

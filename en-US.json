@@ -208,5 +208,13 @@
     "command.join.couldNotCreatePlayer": "❌ Could not create a session",
     "command.leave.userNotInVoiceChannel": "❌ You must be in a voice channel to use this command",
     "command.leave.notInVoiceChannel": "❌ The bot is not in a voice channel",
-    "command.leave.leftVoiceChannel": "🔴 Left the voice channel"
+    "command.leave.leftVoiceChannel": "🔴 Left the voice channel",
+    "command.play.invalidNode": "❌ The selected node is invalid or unavailable",
+    "command.play.nodeNotConnected": "❌ The selected node is offline",
+    "premium.promote.title": "Upgrade to Premium",
+    "premium.promote.description": "Unlock exclusive features and enhance your experience with HStudio Premium!\n\n**Benefits of Premium:**\n- Access to YouTube Direct Playback\n- Priority Support\n- Exclusive Commands and Features\n\nJoin our [Support Discord](https://discord.gg/S8gm6jb8d4) to learn more and upgrade today!",
+    "premium.promote.button": "Upgrade Now",
+    "premium.promote.youtubeDirect.description": "You can also play music from Youtube but you need to convert the link before it can be used.\n\nYou can convert the link using `/converter youtube-url`",
+    "command.play.couldNotCreatePlayer": "❌ Could not create a player",
+    "command.play.guildOnly": "❌ This command can only be used in servers"
 }

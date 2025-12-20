@@ -220,5 +220,12 @@
     "command.play.guildOnly": "❌ This command can only be used in servers",
     "command.play.playlistEmpty": "❌ The playlist is empty",
     "card.createdBy": "Created by {0}",
-    "card.nextTrack": "Next"
+    "card.nextTrack": "Next",
+    "command.control.userNotInVoiceChannel": "❌ You must be in a voice channel to use this command",
+    "command.control.guildOnly": "❌ This command can only be used in servers",
+    "command.control.couldNotGetPlayer": "❌ Could not get a player",
+    "command.control.userNotInSameVoiceChannel": "❌ You must be in the same voice channel as the bot to use this command",
+    "control.volumeButton": "Volume: {0}%",
+    "control.autoplayButton": "Autoplay",
+    "control.leaveButton": "Leave"
 }

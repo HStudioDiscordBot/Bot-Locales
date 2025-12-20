@@ -220,5 +220,12 @@
     "command.play.guildOnly": "❌ คำสั่งนี้ใช้ได้เฉพาะในเซิร์ฟเวอร์เท่านั้น",
     "command.play.playlistEmpty": "❌ เพลย์ลิสต์ว่างเปล่า",
     "card.createdBy": "สร้างโดย {0}",
-    "card.nextTrack": "เพลงถัดไป"
+    "card.nextTrack": "เพลงถัดไป",
+    "command.control.userNotInVoiceChannel": "❌ คุณต้องอยู่ในช่องเสียงเพื่อใช้คำสั่งนี้",
+    "command.control.guildOnly": "❌ คำสั่งนี้ใช้ได้เฉพาะในเซิร์ฟเวอร์เท่านั้น",
+    "command.control.couldNotGetPlayer": "❌ ไม่สามารถรับตัวเล่นได้",
+    "command.control.userNotInSameVoiceChannel": "❌ คุณต้องอยู่ในช่องเสียงเดียวกับบอทเพื่อใช้คำสั่งนี้",
+    "control.volumeButton": "ระดับเสียง: {0}%",
+    "control.autoplayButton": "เล่นอัตโนมัติ",
+    "control.leaveButton": "ออก"
 }

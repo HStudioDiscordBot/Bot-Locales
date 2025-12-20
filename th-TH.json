@@ -218,5 +218,7 @@
     "premium.promote.youtubeDirect.description": "คุณยังสามารถเล่นเพลงจาก Youtube ได้แต่ต้องแปลงลิ้งค์ก่อน\n\nคุณสามารถแปลงลิ้งค์ได้โดยใช้คำสั่ง `/converter youtube-url`",
     "command.play.couldNotCreatePlayer": "❌ ไม่สามารถสร้างตัวเล่นเพลงได้",
     "command.play.guildOnly": "❌ คำสั่งนี้ใช้ได้เฉพาะในเซิร์ฟเวอร์เท่านั้น",
-    "command.play.playlistEmpty": "❌ เพลย์ลิสต์ว่างเปล่า"
+    "command.play.playlistEmpty": "❌ เพลย์ลิสต์ว่างเปล่า",
+    "card.createdBy": "สร้างโดย {0}",
+    "card.nextTrack": "เพลงถัดไป"
 }

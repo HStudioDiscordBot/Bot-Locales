@@ -214,7 +214,7 @@
     "premium.promote.title": "อัปเกรดเป็นพรีเมี่ยม",
     "premium.promote.description": "ปลดล็อกฟีเจอร์พิเศษและยกระดับประสบการณ์ของคุณกับ HStudio Premium!\n\n**ประโยชน์ของพรีเมี่ยม:**\n- เข้าถึงการเล่นเพลงจาก YouTube โดยตรง\n- การซัพพอร์ตขั้นสูง\n- คำสั่งและฟีเจอร์พิเศษ\n\n[Support Discord](https://discord.gg/S8gm6jb8d4)",
     "premium.promote.button": "อัปเกรดตอนนี้",
-    "premium.promote.youtubeDirect.description": "เพลิดเพลินกับการเล่นเพลงจาก YouTube โดยตรงอย่างราบรื่นด้วย HStudio Premium ไม่ต้องแปลงลิงก์อีกต่อไป!",
+    "premium.promote.youtubeDirect.description": "คุณยังสามารถเล่นเพลงจาก Youtube ได้แต่ต้องแปลงลิ้งค์ก่อน\n\nคุณสามารถแปลงลิ้งค์ได้โดยใช้คำสั่ง `/converter youtube-url`",
     "command.play.couldNotCreatePlayer": "❌ ไม่สามารถสร้างตัวเล่นเพลงได้",
     "command.play.guildOnly": "❌ คำสั่งนี้ใช้ได้เฉพาะในเซิร์ฟเวอร์เท่านั้น"
 }

@@ -124,8 +124,8 @@
     "youtube.direct.disable.button.text": "ซื้อตอนนี้",
     "youtube.direct.disable.expired": "# Youtube Directly หมดอายุแล้ว\nไม่สามารถใช้ฟีเจอร์นี้ได้อีกต่อไป\nสามารถสั่งซื้อได้ผ่านเว็บไซต์ของ HStudio",
     "interaction.client.notOnline": "❌ปิดใช้งานบอทชั่วคราว",
-    "command.nodes.title": "เครื่องเล่น",
-    "command.nodes.field": "เครื่องเล่น: {0}\nเครื่องเล่นที่กำลังเล่น: {1}\nMemory: {2}\nCPU: {3} %\nเวลาทำงาน: {4}",
+    "command.nodes.title": "สถานะของเครื่องเล่นเพลง",
+    "command.nodes.field": "├ เชื่อมต่อ: {0}\n├ กำลังเล่น: {1}\n├ แรมที่ใช้: {2}\n├ ซีพียูที่่ใช้: {3} %\n└ เวลาทำงาน: {4}",
     "utils.size.bytes": "ไบต์",
     "utils.size.kb": "KB",
     "utils.size.mb": "MB",
@@ -283,5 +283,7 @@
     "command.skip.nothingPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้",
     "command.skip.noNextTrack": "❌ ไม่มีเพลงถัดไปในคิวถัดไป",
     "command.skip.skipped": "⏭️ ข้ามไปยังเพลงถัดไปแล้ว",
-    "command.volume.nothingPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้"
+    "command.volume.nothingPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้",
+    "node.status.offline": "ออฟไลน์",
+    "node.status.online": "ออนไลน์"
 }

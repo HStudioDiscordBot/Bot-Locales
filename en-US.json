@@ -124,8 +124,8 @@
     "youtube.direct.disable.button.text": "Buy now",
     "youtube.direct.disable.expired": "# Youtube Directly is expired\nYou can't use this feature anymore\nYou can order through the HStudio website",
     "interaction.client.notOnline": "❌ The bot is not online",
-    "command.nodes.title": "Nodes",
-    "command.nodes.field": "Players: {0}\nActive Players: {1}\nMemory: {2}\nCPU: {3} %\nUptime: {4}",
+    "command.nodes.title": "Node Status",
+    "command.nodes.field": "├ Players: {0}\n├ Active Players: {1}\n├ Memory: {2}\n├ CPU: {3} %\n└ Uptime: {4}",
     "utils.size.bytes": "Bytes",
     "utils.size.kb": "KB",
     "utils.size.mb": "MB",
@@ -283,5 +283,7 @@
     "command.skip.nothingPlaying": "❌ There is no music playing right now",
     "command.skip.noNextTrack": "❌ There is no next track to skip to",
     "command.skip.skipped": "⏭️ Skipped to the next track",
-    "command.volume.nothingPlaying": "❌ There is no music playing right now"
+    "command.volume.nothingPlaying": "❌ There is no music playing right now",
+    "node.status.offline": "Offline",
+    "node.status.online": "Online"
 }

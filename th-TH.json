@@ -251,5 +251,22 @@
     "controlPanelButtonHandler.volumeModalDescription": "ตั้งค่าระดับเสียงสำหรับตัวเล่นเพลง (0-200)",
     "controlPanelButtonHandler.leaveConfirmation": "คุณแน่ใจหรือไม่ว่าต้องการให้บอทออกจากช่องเสียง?",
     "controlPanelButtonHandler.leaveConfirmButton": "ยืนยันการออก",
-    "controlPanelButtonHandler.leaveCancelButton": "ยกเลิก"
+    "controlPanelButtonHandler.leaveCancelButton": "ยกเลิก",
+    "command.premium.title": "สถานะพรีเมี่ยมของคุณ 💎",
+    "command.premium.description.user": "สวัสดี **{0}**!",
+    "command.premium.description.plan": "พรีเมี่ยม: `{0}`",
+    "command.premium.description.expiry": "วันหมดอายุ: {0}",
+    "command.premium.description.package": "แพ็กเกจ: {0}",
+    "command.premium.description.expiration": "หมดอายุที่: {0}",
+    "command.premium.free.button": "อัปเกรดตอนนี้",
+    "command.premium.premium.button": "ต่ออายุตอนนี้",
+    "premium.status.active": "✅ เปิดใช้งาน",
+    "premium.status.inactive": "❌ ปิดใช้งาน",
+    "premium.package.free": "ฟรี",
+    "premium.package.premium": "พรีเมี่ยม",
+    "premium.package.premium-1m": "พรีเมี่ยม 1 เดือน",
+    "premium.package.premium-3m": "พรีเมี่ยม 3 เดือน",
+    "premium.package.premium-6m": "พรีเมี่ยม 6 เดือน",
+    "premium.package.premium-1y": "พรีเมี่ยม 1 ปี",
+    "premium.package.premium-permanent": "พรีเมี่ยม ถาวร"
 }

@@ -251,5 +251,22 @@
     "controlPanelButtonHandler.volumeModalDescription": "Set the volume for the player (0-200)",
     "controlPanelButtonHandler.leaveConfirmation": "Are you sure you want the bot to leave the voice channel?",
     "controlPanelButtonHandler.leaveConfirmButton": "Confirm Leave",
-    "controlPanelButtonHandler.leaveCancelButton": "Cancel"
+    "controlPanelButtonHandler.leaveCancelButton": "Cancel",
+    "command.premium.title": "Your Premium Status 💎",
+    "command.premium.description.user": "Hello **{0}**!",
+    "command.premium.description.plan": "Premium: `{0}`",
+    "command.premium.description.expiry": "Expiry Date: {0}",
+    "command.premium.description.package": "Package: {0}",
+    "command.premium.description.expiration": "Expire at: {0}",
+    "command.premium.free.button": "Upgrade Now",
+    "command.premium.premium.button": "Renew Now",
+    "premium.status.active": "✅ Active",
+    "premium.status.inactive": "❌ Inactive",
+    "premium.package.free": "Free",
+    "premium.package.premium": "Premium",
+    "premium.package.premium-1m": "Premium 1 Month",
+    "premium.package.premium-3m": "Premium 3 Months",
+    "premium.package.premium-6m": "Premium 6 Months",
+    "premium.package.premium-1y": "Premium 1 Year",
+    "premium.package.premium-permanent": "Premium Permanent"
 }

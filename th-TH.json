@@ -268,5 +268,9 @@
     "premium.package.premium-3m": "พรีเมี่ยม 3 เดือน",
     "premium.package.premium-6m": "พรีเมี่ยม 6 เดือน",
     "premium.package.premium-1y": "พรีเมี่ยม 1 ปี",
-    "premium.package.premium-permanent": "พรีเมี่ยม ถาวร"
+    "premium.package.premium-permanent": "พรีเมี่ยม ถาวร",
+    "command.checkBotIsReady.userNotInVoiceChannel": "❌ คุณต้องอยู่ในช่องเสียงเพื่อใช้คำสั่งนี้",
+    "command.checkBotIsReady.guildOnly": "❌ คำสั่งนี้ใช้ได้เฉพาะในเซิร์ฟเวอร์เท่านั้น",
+    "command.checkBotIsReady.botNotInVoiceChannel": "❌ บอทไม่ได้อยู่ในช่องเสียง",
+    "command.checkBotIsReady.botNotConnected": "❌ บอทไม่ได้เชื่อมต่อกับช่องเสียง"
 }

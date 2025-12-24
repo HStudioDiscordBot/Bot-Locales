@@ -268,5 +268,9 @@
     "premium.package.premium-3m": "Premium 3 Months",
     "premium.package.premium-6m": "Premium 6 Months",
     "premium.package.premium-1y": "Premium 1 Year",
-    "premium.package.premium-permanent": "Premium Permanent"
+    "premium.package.premium-permanent": "Premium Permanent",
+    "command.checkBotIsReady.userNotInVoiceChannel": "❌ You must be in a voice channel to use this command",
+    "command.checkBotIsReady.guildOnly": "❌ This command can only be used in servers",
+    "command.checkBotIsReady.botNotInVoiceChannel": "❌ The bot is not in a voice channel",
+    "command.checkBotIsReady.botNotConnected": "❌ The bot is not connected to the voice channel"
 }

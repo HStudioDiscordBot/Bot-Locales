@@ -272,5 +272,16 @@
     "command.checkBotIsReady.userNotInVoiceChannel": "❌ You must be in a voice channel to use this command",
     "command.checkBotIsReady.guildOnly": "❌ This command can only be used in servers",
     "command.checkBotIsReady.botNotInVoiceChannel": "❌ The bot is not in a voice channel",
-    "command.checkBotIsReady.botNotConnected": "❌ The bot is not connected to the voice channel"
+    "command.checkBotIsReady.botNotConnected": "❌ The bot is not connected to the voice channel",
+    "command.clear.queueEmpty": "❌ The queue is already empty",
+    "command.clear.cleared": "🗑️ Cleared the queue",
+    "command.loop.enabledTrack": "🔁 Looping current track",
+    "command.loop.enabledQueue": "🔁 Looping entire queue",
+    "command.loop.disabled": "▶️ Looping disabled",
+    "command.loop.error": "❌ An error occurred while toggling loop",
+    "command.seek.fail": "❌ Failed to seek",
+    "command.skip.nothingPlaying": "❌ There is no music playing right now",
+    "command.skip.noNextTrack": "❌ There is no next track to skip to",
+    "command.skip.skipped": "⏭️ Skipped to the next track",
+    "command.volume.nothingPlaying": "❌ There is no music playing right now"
 }

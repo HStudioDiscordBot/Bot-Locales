@@ -291,5 +291,10 @@
     "command.botinfo.field.cluster.description": "├ **Guilds**: {0}\n├ **Users**: {1}\n├ **Channels**: {2}\n├ **Shards**: {3}\n├ **Ping**: {4} ms\n└ **Uptime**: {5}",
     "command.setting.search.savedToDB": "💾 Saved default source to `{0}`",
     "command.setting.search.failedToSave": "❌ Fail to save default source",
-    "command.setting.search.savingToDB": "✨ Saving default source to `{0}`..."
+    "command.setting.search.savingToDB": "✨ Saving default source to `{0}`...",
+    "command.setting.ads.savingToDB": "✨ Saving ads setting to `{0}`...",
+    "command.setting.ads.savedToDB": "💾 Saved ads setting to `{0}`",
+    "command.setting.ads.failedToSave": "❌ Fail to save ads setting",
+    "ads.enabled": "✅ Enabled",
+    "ads.disabled": "❌ Disabled"
 }

@@ -288,5 +288,8 @@
     "node.status.online": "Online",
     "command.botinfo.description": "**ID**: {0}\n**Username**: {1}\n**Discriminator**: {2}\n**Version**:\n├ **Node.js**: {3}\n├ **HStudioCore**: {4}\n├ **Discord.js**: {5}\n└ **Moonlink.js**: {6}\n\n**Cluster**: {7}\n**CPU**: {8}% ({9} cores)\n**RAM**: {10} MB\n**Shards**: {11}\n**Uptime**: {12}\n",
     "command.botinfo.field.cluster.tittle": "`{0}` Cluster {1}",
-    "command.botinfo.field.cluster.description": "├ **Guilds**: {0}\n├ **Users**: {1}\n├ **Channels**: {2}\n├ **Shards**: {3}\n├ **Ping**: {4} ms\n└ **Uptime**: {5}"
+    "command.botinfo.field.cluster.description": "├ **Guilds**: {0}\n├ **Users**: {1}\n├ **Channels**: {2}\n├ **Shards**: {3}\n├ **Ping**: {4} ms\n└ **Uptime**: {5}",
+    "command.setting.search.savedToDB": "💾 Saved default source to `{0}`",
+    "command.setting.search.failedToSave": "❌ Fail to save default source",
+    "command.setting.search.savingToDB": "✨ Saving default source to `{0}`..."
 }

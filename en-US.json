@@ -296,5 +296,8 @@
     "command.setting.ads.savedToDB": "💾 Saved ads setting to `{0}`",
     "command.setting.ads.failedToSave": "❌ Fail to save ads setting",
     "ads.enabled": "✅ Enabled",
-    "ads.disabled": "❌ Disabled"
+    "ads.disabled": "❌ Disabled",
+    "command.shuffle.not_enough_songs": "❌ Not enough songs in the queue to shuffle",
+    "command.shuffle.success": "🔀 Shuffled the queue",
+    "command.shuffle.error": "❌ An error occurred while shuffling the queue"
 }

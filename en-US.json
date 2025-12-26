@@ -299,5 +299,7 @@
     "ads.disabled": "❌ Disabled",
     "command.shuffle.not_enough_songs": "❌ Not enough songs in the queue to shuffle",
     "command.shuffle.success": "🔀 Shuffled the queue",
-    "command.shuffle.error": "❌ An error occurred while shuffling the queue"
+    "command.shuffle.error": "❌ An error occurred while shuffling the queue",
+    "controlPanelModalHandler.unknownRepeatMode": "❌ Unknown repeat mode",
+    "controlPanelModalHandler.unknownModal": "❌ Unknown modal submission"
 }

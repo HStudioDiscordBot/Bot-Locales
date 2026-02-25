@@ -302,5 +302,6 @@
     "command.shuffle.error": "❌ An error occurred while shuffling the queue",
     "controlPanelModalHandler.unknownRepeatMode": "❌ Unknown repeat mode",
     "controlPanelModalHandler.unknownModal": "❌ Unknown modal submission",
-    "control.noMusicPlaying": "❌ There is no music playing right now"
+    "control.noMusicPlaying": "❌ There is no music playing right now",
+    "command.seek.noCurrent": "❌ There is no music currently playing"
 }

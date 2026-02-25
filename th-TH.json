@@ -302,5 +302,6 @@
     "command.shuffle.error": "❌ เกิดข้อผิดพลาดขณะสุ่มคิวเพลง",
     "controlPanelModalHandler.unknownRepeatMode": "❌ โหมดการเล่นซ้ำที่ไม่รู้จัก",
     "controlPanelModalHandler.unknownModal": "❌ การส่งแบบฟอร์มที่ไม่รู้จัก",
-    "control.noMusicPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้"
+    "control.noMusicPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้",
+    "command.seek.noCurrent": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้"
 }

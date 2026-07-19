@@ -283,6 +283,7 @@
     "command.skip.nothingPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้",
     "command.skip.noNextTrack": "❌ ไม่มีเพลงถัดไปในคิวถัดไป",
     "command.skip.skipped": "⏭️ ข้ามไปยังเพลงถัดไปแล้ว",
+    "command.skip.voted": "⏭️ โหวตข้ามเพลงแล้ว! ({0}/{1})",
     "command.volume.nothingPlaying": "❌ ไม่มีเพลงที่กำลังเล่นอยู่ในขณะนี้",
     "node.status.offline": "ออฟไลน์",
     "node.status.online": "ออนไลน์",

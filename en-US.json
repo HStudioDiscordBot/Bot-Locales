@@ -283,6 +283,7 @@
     "command.skip.nothingPlaying": "❌ There is no music playing right now",
     "command.skip.noNextTrack": "❌ There is no next track to skip to",
     "command.skip.skipped": "⏭️ Skipped to the next track",
+    "command.skip.voted": "⏭️ Vote to skip registered! ({0}/{1})",
     "command.volume.nothingPlaying": "❌ There is no music playing right now",
     "node.status.offline": "Offline",
     "node.status.online": "Online",
